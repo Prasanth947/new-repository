@@ -8,6 +8,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 uising openqa;
+using openqa;
 [assembly: log4net.Config.XmlConfigurator(Watch = true)]
 
 namespace Log4net
